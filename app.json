@@ -15,7 +15,8 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.expo-home-dev.sqlite-check"
     },
     "android": {
       "adaptiveIcon": {
